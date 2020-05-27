@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/lewyuburi/nuxt-validate#readme",
   "dependencies": {
-    "vee-validate": "^3.0.8"
+    "vee-validate": "^3.3.0"
   },
   "devDependencies": {
     "@nuxtjs/module-test-utils": "latest",
